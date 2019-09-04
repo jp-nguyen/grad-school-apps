@@ -13,6 +13,8 @@ Using this to keep track instead of a dumb Excel sheet.
 | [UWash](https://www.cs.washington.edu/academics/phd/admissions) | September 1, 2019 | December 15, 2019 | Not Done |
 | [UT](https://www.cs.utexas.edu/graduate-program) | Mid-October 2019 | ?? | Not Done |
 | [CMU](https://csd.cmu.edu/academics/doctoral/overview) | Now | December 2, 2019 (Early), December 12, 2019 | Not Done |
+| [CSULA](http://www.calstatela.edu/ecst/cs/graduate) | October 1, 2019 | ?? | Not Done |
+| [Cal Poly](http://www.catalog.calpoly.edu/collegesandprograms/collegeofengineering/computersciencesoftwareengineering/mscomputerscience/) | October 1, 2019 | February 1, 2020 | Not Done |
 
 ## Other Things of Note
 - [CMU: Distributed Systems Faculty](https://csd.cmu.edu/research-areas/distributed-systems)
