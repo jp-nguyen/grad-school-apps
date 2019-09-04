@@ -2,6 +2,8 @@
 
 Using this to keep track instead of a dumb Excel sheet.
 
+## Application Dates
+
 | School | Application Opens | Application Deadline | Status |
 | ------ | ----------------- | -------------------- | ------ |
 | [UCB](https://grad.berkeley.edu/program/computer-science/) | September 3, 2019 | December 9, 2019 | Not Done |
@@ -11,3 +13,6 @@ Using this to keep track instead of a dumb Excel sheet.
 | [UWash](https://www.cs.washington.edu/academics/phd/admissions) | September 1, 2019 | December 15, 2019 | Not Done |
 | [UT](https://www.cs.utexas.edu/graduate-program) | Mid-October 2019 | ?? | Not Done |
 | [CMU](https://csd.cmu.edu/academics/doctoral/overview) | Now | December 2, 2019 (Early), December 12, 2019 | Not Done |
+
+## Other Things of Note
+- [CMU: Distributed Systems Faculty](https://csd.cmu.edu/research-areas/distributed-systems)
